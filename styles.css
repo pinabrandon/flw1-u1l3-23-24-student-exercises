@@ -13,14 +13,18 @@ button {
     cursor: pointer;
     transition: transform 0.3s, background-color 0.3s, font-size 0.3s;
 }
-
+background-color:#094f0b;
+color:white;
+paddling: 30px;
+font-size: 16px;
+border-radius: 10px;
 /* 
     4. Styling for the hover state.
     - Change the background color to Dark Magenta (#8B008B)
     - Set the font size to 18px
 */
 button:hover {
-    
+    background-color:#8B008B;
 }
 
 button:active {
